@@ -1,10 +1,11 @@
-# clima
+# Clima
 
-A new Flutter project.
+A simple weather app.
 
-## Getting Started
+Description:
+  A weather app that provides real-time, accurate weather information for your current location and any other location of your choice. The app uses GPS, displays current temperature and other weather conditions. Search for any city in the world and find the weather information with this location-based weather app.
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
