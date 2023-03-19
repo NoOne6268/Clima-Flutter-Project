@@ -2,7 +2,8 @@
 
 A simple weather app.
 
-Description:
+## Description
+  
   A weather app that provides real-time, accurate weather information for your current location and any other location of your choice. The app uses GPS, displays current temperature and other weather conditions. Search for any city in the world and find the weather information with this location-based weather app.
 
 
