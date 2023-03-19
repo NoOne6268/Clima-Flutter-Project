@@ -16,3 +16,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at www.appbrewery.co
